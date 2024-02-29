@@ -74,7 +74,7 @@
                     </div>
 
                     <div class="about-details" data-aos="zoom-in">
-                        <h1 class="section-heading " data-aos="fade-up"><img src="images/star-2.png" alt="Star">Director<img src="images/star-2.png" alt="Star"></h1>
+                        <h1 class="section-heading " data-aos="fade-up"><img src="https://cdn.discordapp.com/attachments/1212747777004797975/1212785864296366130/star-2.png?ex=65f319da&is=65e0a4da&hm=d355ce86f6c569f6292aac5e17f98a36a0b6bfec62e30b28280a16377053b53a&" alt="Star">Director<img src="https://cdn.discordapp.com/attachments/1212747777004797975/1212785864296366130/star-2.png?ex=65f319da&is=65e0a4da&hm=d355ce86f6c569f6292aac5e17f98a36a0b6bfec62e30b28280a16377053b53a&" alt="Star"></h1>
                         <div class="about-details-inner shadow-box">
                             <img src="images/icon2.png" alt="Star" style="height: 100px;">
                             <h1>Kaveesha Sathsara
@@ -99,7 +99,7 @@
                             </div>
         
                             <div class="about-details" data-aos="zoom-in">
-                                <h1 class="section-heading " data-aos="fade-up"><img src="images/star-2.png" alt="Star">Director<img src="images/star-2.png" alt="Star"></h1>
+                                <h1 class="section-heading " data-aos="fade-up"><img src="https://cdn.discordapp.com/attachments/1212747777004797975/1212785864296366130/star-2.png?ex=65f319da&is=65e0a4da&hm=d355ce86f6c569f6292aac5e17f98a36a0b6bfec62e30b28280a16377053b53a&" alt="Star">Director<img src="https://cdn.discordapp.com/attachments/1212747777004797975/1212785864296366130/star-2.png?ex=65f319da&is=65e0a4da&hm=d355ce86f6c569f6292aac5e17f98a36a0b6bfec62e30b28280a16377053b53a&" alt="Star"></h1>
                                 <div class="about-details-inner shadow-box">
                                     <img src="images/icon2.png" alt="Star" style="height: 100px;">
                                     <h1>Gihan Pasindu
@@ -126,7 +126,7 @@
                 </div>
 
                 <div class="about-details" data-aos="zoom-in">
-                    <h1 class="section-heading " data-aos="fade-up"><img src="images/star-2.png" alt="Star">CEO<img src="images/star-2.png" alt="Star"></h1>
+                    <h1 class="section-heading " data-aos="fade-up"><img src="https://cdn.discordapp.com/attachments/1212747777004797975/1212785864296366130/star-2.png?ex=65f319da&is=65e0a4da&hm=d355ce86f6c569f6292aac5e17f98a36a0b6bfec62e30b28280a16377053b53a&" alt="Star">CEO<img src="https://cdn.discordapp.com/attachments/1212747777004797975/1212785864296366130/star-2.png?ex=65f319da&is=65e0a4da&hm=d355ce86f6c569f6292aac5e17f98a36a0b6bfec62e30b28280a16377053b53a&" alt="Star"></h1>
                     <div class="about-details-inner shadow-box">
                         <img src="images/icon2.png" alt="Star" style="height: 100px;">
                         <h1>Hasindu Theekshana
@@ -153,7 +153,7 @@
                     </div>
     
                     <div class="about-details" data-aos="zoom-in">
-                        <h1 class="section-heading " data-aos="fade-up"><img src="images/star-2.png" alt="Star">CPO<img src="images/star-2.png" alt="Star"></h1>
+                        <h1 class="section-heading " data-aos="fade-up"><img src="https://cdn.discordapp.com/attachments/1212747777004797975/1212785864296366130/star-2.png?ex=65f319da&is=65e0a4da&hm=d355ce86f6c569f6292aac5e17f98a36a0b6bfec62e30b28280a16377053b53a&" alt="Star">CPO<img src="https://cdn.discordapp.com/attachments/1212747777004797975/1212785864296366130/star-2.png?ex=65f319da&is=65e0a4da&hm=d355ce86f6c569f6292aac5e17f98a36a0b6bfec62e30b28280a16377053b53a&" alt="Star"></h1>
                         <div class="about-details-inner shadow-box">
                             <img src="images/icon2.png" alt="Star" style="height: 100px;">
                             <h1>Kavishka Chathumal</h1>
@@ -179,7 +179,7 @@
                 </div>
 
                 <div class="about-details" data-aos="zoom-in">
-                    <h1 class="section-heading " data-aos="fade-up"><img src="images/star-2.png" alt="Star">Creative Director<img src="images/star-2.png" alt="Star"></h1>
+                    <h1 class="section-heading " data-aos="fade-up"><img src="https://cdn.discordapp.com/attachments/1212747777004797975/1212785864296366130/star-2.png?ex=65f319da&is=65e0a4da&hm=d355ce86f6c569f6292aac5e17f98a36a0b6bfec62e30b28280a16377053b53a&" alt="Star">Creative Director<img src="https://cdn.discordapp.com/attachments/1212747777004797975/1212785864296366130/star-2.png?ex=65f319da&is=65e0a4da&hm=d355ce86f6c569f6292aac5e17f98a36a0b6bfec62e30b28280a16377053b53a&" alt="Star"></h1>
                     <div class="about-details-inner shadow-box">
                         <img src="images/icon2.png" alt="Star" style="height: 100px;">
                         <h1>Savindu Umantha</h1>
@@ -205,7 +205,7 @@
                     </div>
     
                     <div class="about-details" data-aos="zoom-in">
-                        <h1 class="section-heading " data-aos="fade-up"><img src="images/star-2.png" alt="Star">CEO(Game)<img src="images/star-2.png" alt="Star"></h1>
+                        <h1 class="section-heading " data-aos="fade-up"><img src="https://cdn.discordapp.com/attachments/1212747777004797975/1212785864296366130/star-2.png?ex=65f319da&is=65e0a4da&hm=d355ce86f6c569f6292aac5e17f98a36a0b6bfec62e30b28280a16377053b53a&" alt="Star">CEO(Game)<img src="https://cdn.discordapp.com/attachments/1212747777004797975/1212785864296366130/star-2.png?ex=65f319da&is=65e0a4da&hm=d355ce86f6c569f6292aac5e17f98a36a0b6bfec62e30b28280a16377053b53a&" alt="Star"></h1>
                         <div class="about-details-inner shadow-box">
                             <img src="images/icon2.png" alt="Star" style="height: 100px;">
                             <h1>Ravindu Yasith </h1>
@@ -231,7 +231,7 @@
                 </div>
 
                 <div class="about-details" data-aos="zoom-in">
-                    <h1 class="section-heading " data-aos="fade-up"><img src="images/star-2.png" alt="Star">COO<img src="images/star-2.png" alt="Star"></h1>
+                    <h1 class="section-heading " data-aos="fade-up"><img src="https://cdn.discordapp.com/attachments/1212747777004797975/1212785864296366130/star-2.png?ex=65f319da&is=65e0a4da&hm=d355ce86f6c569f6292aac5e17f98a36a0b6bfec62e30b28280a16377053b53a&" alt="Star">COO<img src="https://cdn.discordapp.com/attachments/1212747777004797975/1212785864296366130/star-2.png?ex=65f319da&is=65e0a4da&hm=d355ce86f6c569f6292aac5e17f98a36a0b6bfec62e30b28280a16377053b53a&" alt="Star"></h1>
                     <div class="about-details-inner shadow-box">
                         <img src="images\niumal.jpg" alt="Star" style="height: 100px;">
                         <h1>Niumal Silva</h1>
@@ -257,7 +257,7 @@
                     </div>
     
                     <div class="about-details" data-aos="zoom-in">
-                        <h1 class="section-heading " data-aos="fade-up"><img src="images/star-2.png" alt="Star">CEO(AI)<img src="images/star-2.png" alt="Star"></h1>
+                        <h1 class="section-heading " data-aos="fade-up"><img src="https://cdn.discordapp.com/attachments/1212747777004797975/1212785864296366130/star-2.png?ex=65f319da&is=65e0a4da&hm=d355ce86f6c569f6292aac5e17f98a36a0b6bfec62e30b28280a16377053b53a&" alt="Star">CEO(AI)<img src="https://cdn.discordapp.com/attachments/1212747777004797975/1212785864296366130/star-2.png?ex=65f319da&is=65e0a4da&hm=d355ce86f6c569f6292aac5e17f98a36a0b6bfec62e30b28280a16377053b53a&" alt="Star"></h1>
                         <div class="about-details-inner shadow-box">
                             <img src="images/icon2.png" alt="Star" style="height: 100px;">
                             <h1>Pasindu Dilshan</h1>
@@ -283,7 +283,7 @@
                 </div>
 
                 <div class="about-details" data-aos="zoom-in">
-                    <h1 class="section-heading " data-aos="fade-up"><img src="images/star-2.png" alt="Star">CEO(IOT)<img src="images/star-2.png" alt="Star"></h1>
+                    <h1 class="section-heading " data-aos="fade-up"><img src="https://cdn.discordapp.com/attachments/1212747777004797975/1212785864296366130/star-2.png?ex=65f319da&is=65e0a4da&hm=d355ce86f6c569f6292aac5e17f98a36a0b6bfec62e30b28280a16377053b53a&" alt="Star">CEO(IOT)<img src="https://cdn.discordapp.com/attachments/1212747777004797975/1212785864296366130/star-2.png?ex=65f319da&is=65e0a4da&hm=d355ce86f6c569f6292aac5e17f98a36a0b6bfec62e30b28280a16377053b53a&" alt="Star"></h1>
                     <div class="about-details-inner shadow-box">
                         <img src="images/icon2.png" alt="Star" style="height: 100px;">
                         <h1>Shehan Tharusha</h1>
@@ -309,7 +309,7 @@
                     </div>
     
                     <div class="about-details" data-aos="zoom-in">
-                        <h1 class="section-heading " data-aos="fade-up"><img src="images/star-2.png" alt="Star">CFO<img src="images/star-2.png" alt="Star"></h1>
+                        <h1 class="section-heading " data-aos="fade-up"><img src="https://cdn.discordapp.com/attachments/1212747777004797975/1212785864296366130/star-2.png?ex=65f319da&is=65e0a4da&hm=d355ce86f6c569f6292aac5e17f98a36a0b6bfec62e30b28280a16377053b53a&" alt="Star">CFO<img src="https://cdn.discordapp.com/attachments/1212747777004797975/1212785864296366130/star-2.png?ex=65f319da&is=65e0a4da&hm=d355ce86f6c569f6292aac5e17f98a36a0b6bfec62e30b28280a16377053b53a&" alt="Star"></h1>
                         <div class="about-details-inner shadow-box">
                             <img src="images/icon2.png" alt="Star" style="height: 100px;">
                             <h1>Wathsala Senarathne</h1>
@@ -335,7 +335,7 @@
                 </div>
 
                 <div class="about-details" data-aos="zoom-in">
-                    <h1 class="section-heading " data-aos="fade-up"><img src="images/star-2.png" alt="Star">CEO(Research)<img src="images/star-2.png" alt="Star"></h1>
+                    <h1 class="section-heading " data-aos="fade-up"><img src="https://cdn.discordapp.com/attachments/1212747777004797975/1212785864296366130/star-2.png?ex=65f319da&is=65e0a4da&hm=d355ce86f6c569f6292aac5e17f98a36a0b6bfec62e30b28280a16377053b53a&" alt="Star">CEO(Research)<img src="https://cdn.discordapp.com/attachments/1212747777004797975/1212785864296366130/star-2.png?ex=65f319da&is=65e0a4da&hm=d355ce86f6c569f6292aac5e17f98a36a0b6bfec62e30b28280a16377053b53a&" alt="Star"></h1>
                     <div class="about-details-inner shadow-box">
                         <img src="images/icon2.png" alt="Star" style="height: 100px;">
                         <h1>Isuru Chethiya</h1>

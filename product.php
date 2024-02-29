@@ -35,7 +35,7 @@
         <section class="about-area">
             <div class="container">
                 <div class="about-details" data-aos="zoom-in">
-                    <h1 class="section-heading " data-aos="fade-up"><img src="images/star-2.png" alt="Star">Our Products<img src="images/star-2.png" alt="Star"></h1>
+                    <h1 class="section-heading " data-aos="fade-up"><img src="https://cdn.discordapp.com/attachments/1212747777004797975/1212785864296366130/star-2.png?ex=65f319da&is=65e0a4da&hm=d355ce86f6c569f6292aac5e17f98a36a0b6bfec62e30b28280a16377053b53a&" alt="Star">Our Products<img src="https://cdn.discordapp.com/attachments/1212747777004797975/1212785864296366130/star-2.png?ex=65f319da&is=65e0a4da&hm=d355ce86f6c569f6292aac5e17f98a36a0b6bfec62e30b28280a16377053b53a&" alt="Star"></h1>
                     <!-- <div class="about-details-inner shadow-box">
                         <img src="images/icon2.png" alt="Star" style="height: 100px;">
                         <h1>Hariharan Varshaan</h1>

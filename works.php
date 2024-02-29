@@ -34,7 +34,7 @@
         <!-- Projects -->
         <section class="projects-area">
             <div class="container">
-                <h1 class="section-heading" data-aos="fade-up"><img src="images/star-2.png" alt="Star"> All Projects <img src="images/star-2.png" alt="Star"></h1>
+                <h1 class="section-heading" data-aos="fade-up"><img src="https://cdn.discordapp.com/attachments/1212747777004797975/1212785864296366130/star-2.png?ex=65f319da&is=65e0a4da&hm=d355ce86f6c569f6292aac5e17f98a36a0b6bfec62e30b28280a16377053b53a&" alt="Star"> All Projects <img src="https://cdn.discordapp.com/attachments/1212747777004797975/1212785864296366130/star-2.png?ex=65f319da&is=65e0a4da&hm=d355ce86f6c569f6292aac5e17f98a36a0b6bfec62e30b28280a16377053b53a&" alt="Star"></h1>
                 <div class="row">
                     <div class="col-md-4">
                         <div data-aos="zoom-in">
@@ -77,7 +77,7 @@
                         
                     </div>
                     <div class="col-md-8">
-                        <h1 class="section-heading" data-aos="fade-up"><img src="images/star-2.png" alt="Star"> All Projects <img src="images/star-2.png" alt="Star"></h1>
+                        <h1 class="section-heading" data-aos="fade-up"><img src="https://cdn.discordapp.com/attachments/1212747777004797975/1212785864296366130/star-2.png?ex=65f319da&is=65e0a4da&hm=d355ce86f6c569f6292aac5e17f98a36a0b6bfec62e30b28280a16377053b53a&" alt="Star"> All Projects <img src="https://cdn.discordapp.com/attachments/1212747777004797975/1212785864296366130/star-2.png?ex=65f319da&is=65e0a4da&hm=d355ce86f6c569f6292aac5e17f98a36a0b6bfec62e30b28280a16377053b53a&" alt="Star"></h1>
                         
                         <div class="d-flex align-items-start gap-24">
                             <div data-aos="zoom-in" class="flex-1">

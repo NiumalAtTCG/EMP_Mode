@@ -51,12 +51,12 @@
                         <div class="blog-items">
                             <div class="blog-item" data-aos="zoom-in">
                                 <div class="img-box d-none d-lg-block">
-                                    <img class="d-block d-lg-none" src="images/model.png" alt="Blog">
-                                    <video controls="false" autoplay="autoplay"  controls loop style="width: 670px;border: 30px;">
+                                    <img class="" src="images\Frame 6.svg" alt="Blog">
+                                    <!-- <video controls="false" autoplay="autoplay"  controls loop style="width: 670px;border: 30px;">
                                         <source src="videos/Untitled video - Made with Clipchamp.mp4" type="video/mp4">
                                       
                                         Your browser does not support the video tag.
-                                      </video>
+                                      </video> -->
                                      
                                 </div>
                                 <div class="content d-block d-lg-none   ">
