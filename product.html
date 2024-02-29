@@ -24,12 +24,51 @@
     <main class="main-aboutpage">
 
         <!-- Header -->
-         <?php
-    require "hedder.php";
-    ?> 
-    <?php
-    require "loading.php"
-    ?>
+   <!-- Header -->
+   <header class="header-area">
+            <div class="container">
+                <div class="gx-row d-flex align-items-center justify-content-between">
+                    <a href="index.html" class="logo">
+                        <img src="images/logo.svg" alt="Logo" style="height: 60px;" >
+                    </a>
+
+                    <nav class="navbar">
+                        <ul class="menu">
+                            <li class="active"><a href="index.html">Home</a></li>
+                            <li><a href="about.html">About</a></li>
+                            <li><a href="works.html">Works</a></li>
+                            <li><a href="contact.html">Contact</a></li>
+                        </ul>
+                        <a href="contact.html" class="theme-btn">Let's talk</a>
+                    </nav>
+
+                    <a href="contact.html" class="theme-btn">Let's talk</a>
+
+                    <div class="show-menu">
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                    </div>
+                </div>
+            </div>
+        </header>
+        <div class="loader-wrap" id="loader">
+        <svg viewBox="0 0 1000 1000" preserveAspectRatio="none">
+            <path id="svg" d="M0,1005S175,995,500,995s500,5,500,5V0H0Z"></path>
+        </svg>
+
+        <div class="loader-wrap-heading">
+            <div class="load-text ">
+                <span>L</span>
+                <span>o</span>
+                <span>a</span>
+                <span>d</span>
+                <span>i</span>
+                <span>n</span>
+                <span>g</span>
+            </div>
+        </div>
+    </div>
 
         <!-- About -->
         <section class="about-area">
@@ -45,7 +84,7 @@
                 </div>
                 <div class="d-flex about-me-wrap align-items-start gap-24">
                     <div class="about-services-box info-box shadow-box mt-4 " data-aos="zoom-in">
-                        <a href="about.php" class="overlay-link"></a>
+                        <a href="#" class="overlay-link"></a>
                             <img src="images/model.jpg" alt="BG" class="bg-img">
                             <img src="images\tbanner.svg" alt="GFonts" style="width: 500px;">
                             <div class="d-flex align-items-center justify-content-between">
@@ -54,7 +93,7 @@
                                     <h2> Rudevs T-shirt</h2>
                                 </div>
 
-                                <a href="blog.php" class="about-btn">
+                                <a href="#" class="about-btn">
                                     <img src="images/icon.svg" alt="Button">
                                 </a>
 
@@ -72,10 +111,26 @@
     <!-- about-4 -->
 
 
-        <!-- Footer -->
-        <!-- <?php 
-        require "footer.php";
-        ?> -->
+    
+       <!-- Footer -->
+<footer class="footer-area">
+            <div class="container">
+                <div class="footer-content text-center">
+                    <a href="index.html" class="logo">
+                       
+                    </a>
+                    <ul class="footer-menu">
+                             <li ><a href="index.html">Home</a></li>
+                            <li><a href="about.html">About</a></li>
+                            <li><a href="works.html">Works</a></li>
+                            <li><a href="contact.html">Contact</a></li>
+                    </ul>
+                    <p class="copyright">
+                        &copy; All rights reserved by <span>Rudevs Coperation</span>
+                    </p>
+                </div>
+            </div>
+        </footer>
 
     </main>
     

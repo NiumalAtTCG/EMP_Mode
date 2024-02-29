@@ -24,12 +24,51 @@
 
     <main class="main-homepage">
 
-    <?php
-    require "hedder.php";
-    ?>
-    <?php
-    require "loading.php"
-    ?>
+  <!-- Header -->
+  <header class="header-area">
+            <div class="container">
+                <div class="gx-row d-flex align-items-center justify-content-between">
+                    <a href="index.html" class="logo">
+                        <img src="images/logo.svg" alt="Logo" style="height: 60px;" >
+                    </a>
+
+                    <nav class="navbar">
+                        <ul class="menu">
+                            <li class="active"><a href="index.html">Home</a></li>
+                            <li><a href="about.html">About</a></li>
+                            <li><a href="works.html">Works</a></li>
+                            <li><a href="contact.html">Contact</a></li>
+                        </ul>
+                        <a href="contact.html" class="theme-btn">Let's talk</a>
+                    </nav>
+
+                    <a href="contact.html" class="theme-btn">Let's talk</a>
+
+                    <div class="show-menu">
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                    </div>
+                </div>
+            </div>
+        </header>
+        <div class="loader-wrap" id="loader">
+        <svg viewBox="0 0 1000 1000" preserveAspectRatio="none">
+            <path id="svg" d="M0,1005S175,995,500,995s500,5,500,5V0H0Z"></path>
+        </svg>
+
+        <div class="loader-wrap-heading">
+            <div class="load-text ">
+                <span>L</span>
+                <span>o</span>
+                <span>a</span>
+                <span>d</span>
+                <span>i</span>
+                <span>n</span>
+                <span>g</span>
+            </div>
+        </div>
+    </div>
 
         <!-- Service -->
         <section class="service-area">
@@ -66,7 +105,7 @@
 
                     <!-- Content -->
                     <div class="col-md-9">
-                        <h1 class="section-heading" data-aos="fade-up"><img src="images/star-2.png" alt="Star"> Our Offerings <img src="images/star-2.png" alt="Star"></h1>
+                        <h1 class="section-heading" data-aos="fade-up"><img src="https://cdn.discordapp.com/attachments/1212747777004797975/1212785864296366130/star-2.png?ex=65f319da&is=65e0a4da&hm=d355ce86f6c569f6292aac5e17f98a36a0b6bfec62e30b28280a16377053b53a&" alt="Star"> Our Offerings <img src="https://cdn.discordapp.com/attachments/1212747777004797975/1212785864296366130/star-2.png?ex=65f319da&is=65e0a4da&hm=d355ce86f6c569f6292aac5e17f98a36a0b6bfec62e30b28280a16377053b53a&" alt="Star"></h1>
 
                         <div class="service-content-wrap" data-aos="zoom-in">
                             <div class="service-content-inner shadow-box">
@@ -99,10 +138,26 @@
         </section>
 
 
+
         <!-- Footer -->
-        <?php 
-        require "footer.php";
-        ?>
+<footer class="footer-area">
+            <div class="container">
+                <div class="footer-content text-center">
+                    <a href="index.html" class="logo">
+                       
+                    </a>
+                    <ul class="footer-menu">
+                             <li ><a href="index.html">Home</a></li>
+                            <li><a href="about.html">About</a></li>
+                            <li><a href="works.html">Works</a></li>
+                            <li><a href="contact.html">Contact</a></li>
+                    </ul>
+                    <p class="copyright">
+                        &copy; All rights reserved by <span>Rudevs Coperation</span>
+                    </p>
+                </div>
+            </div>
+        </footer>
 
     </main>
     
