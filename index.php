@@ -7,18 +7,18 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>RudevsCo</title>
-    <link rel="icon" href="images\bg12.png" >
+    <link rel="icon" href="images\title.png" >
 
     <!-- Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com/">
     <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800&amp;display=swap" rel="stylesheet">
 
-    <link rel="stylesheet" href="iconoir.css">
+    <link rel="stylesheet" href="css/iconoir.css">
     
-    <link rel="stylesheet" href="bootstrap.min.css">
-    <link rel="stylesheet" href="aos.css">
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/aos.css">
+    <link rel="stylesheet" href="css/style.css">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/latest/TweenMax.min.js"></script>
 
     
@@ -40,9 +40,9 @@
                     <div class="col-md-6" data-aos="zoom-in">
                         <div class="about-me-box shadow-box">
                             <a class="overlay-link" href=""></a>
-                            <img src="images\bg12.png" alt="BG" class="bg-img">
+                            <img src="images\title.png" alt="BG" class="bg-img">
                             <div class="img-box">
-                                <img src="images\bg12.png" alt="About Me">
+                                <img src="images\title.png" alt="About Me">
                             </div>
                             <div class="infos">
                                 <h4>World class Game Develpoing</h4>
@@ -72,7 +72,7 @@
                                 <div data-aos="zoom-in">
                                     <div class="about-crenditials-box info-box shadow-box h-full">
                                         <a class="overlay-link" href="credentials.php"></a>
-                                        <img src="images/Frame 2.png" alt="BG" class="bg-img" >
+                                        <img src="https://cdn.discordapp.com/attachments/1212747777004797975/1212784806690295908/Frame_2.png?ex=65f318de&is=65e0a3de&hm=3918bdb18dc2d5c72cd6204c6446b14120e65d6593b7b7a00ea8d2e88b4165d4&" alt="BG" class="bg-img" >
                                         <img src="images/.png" alt="" style="width: 30px;">
                                         <div class="d-flex align-items-center justify-content-between">
                                             <div class="infos">
@@ -92,7 +92,7 @@
                                 <div data-aos="zoom-in">
                                     <div class="about-crenditials-box info-box shadow-box h-full">
                                         <a class="overlay-link" href="works.php"></a>
-                                        <img src="images/Frame4.png" alt="BG" class="bg-img" >
+                                        <img src="https://cdn.discordapp.com/attachments/1212747777004797975/1212785255153541221/Frame4.png?ex=65f31949&is=65e0a449&hm=884e4bb4223d1aaaf2be23f4e02534d2c0db682cbdd0dcca12dd3fc5bde7baaa&images/Frame4.png" alt="BG" class="bg-img" >
                                         <img src="images/.png" alt="" style="width: 30px;">
                                         <div class="d-flex align-items-center justify-content-between">
                                             <div class="infos">
@@ -120,7 +120,7 @@
                             <div data-aos="zoom-in" class="col-5">
                                 <div class="about-services-box info-box shadow-box ">
                                     <a href="service.php" class="overlay-link"></a>
-                                    <img src="assets/images/bg1.png" alt="BG" class="bg-img">
+                               
                                     <div class="icon-boxes ">
                                         <i class="iconoir-camera d-none d-md-block"></i>
                                         <i class="iconoir-design-pencil d-none d-md-block"></i>
@@ -146,8 +146,8 @@
                                 </div>
                                 <div class="about-services-box info-box shadow-box mt-4 " data-aos="zoom-in">
                                 <a href="about.php" class="overlay-link"></a>
-                                    <img src="images/model.jpg" alt="BG" class="bg-img">
-                                    <img src="images\rudevs_tshirt.png" alt="GFonts">
+                                    <img src="https://cdn.discordapp.com/attachments/1212747777004797975/1212785645756358656/model01.png?ex=65f319a6&is=65e0a4a6&hm=27e0d104c7c4174a937113a5e0015756727abf34f8d62408cf73f33a1ccdbbb9&" alt="BG" class="bg-img">
+                                    <img src="https://cdn.discordapp.com/attachments/1212747777004797975/1212785862857859212/rudevs_tshirt.png?ex=65f319da&is=65e0a4da&hm=599c0bfe8d4b80a1b93735f8ee6c7ca9ee13b0121836285ba7b4617b4021d260&" alt="GFonts">
                                     <div class="d-flex align-items-center justify-content-between">
                                         <div class="infos">
                                             <h4>Blog</h4>
@@ -165,8 +165,8 @@
                             <div data-aos="zoom-in" class="flex-1">
                                 <div class="about-blog-box info-box shadow-box " >
                                     <a href="blog.php" class="overlay-link"></a>
-                                    <img src="images/model.jpg" alt="BG" class="bg-img">
-                                    <img src="images/model01.png" alt="GFonts">
+                                    <img src="https://cdn.discordapp.com/attachments/1212747777004797975/1212785645756358656/model01.png?ex=65f319a6&is=65e0a4a6&hm=27e0d104c7c4174a937113a5e0015756727abf34f8d62408cf73f33a1ccdbbb9&" alt="BG" class="bg-img">
+                                    <img src="https://cdn.discordapp.com/attachments/1212747777004797975/1212785645756358656/model01.png?ex=65f319a6&is=65e0a4a6&hm=27e0d104c7c4174a937113a5e0015756727abf34f8d62408cf73f33a1ccdbbb9&" alt="GFonts">
                                     <div class="d-flex align-items-center justify-content-between">
                                         <div class="infos">
                                             <h4>Blog</h4>
@@ -181,7 +181,7 @@
                                 </div>
                                 <div class="about-blog-box info-box shadow-box mt-4 " data-aos="zoom-in">
                                     <a href="product.php" class="overlay-link"></a>
-                                    <img src="images/Group 7.png" alt="BG" class="bg-img" >
+                                    <img src="https://cdn.discordapp.com/attachments/1212747777004797975/1212785256805957765/Group_7.png?ex=65f31949&is=65e0a449&hm=7175dcf87e9a8d33fe88a5c31b9f2f2ff344a3decee90497923f36e292489b10&" alt="BG" class="bg-img" >
                                     <img src="images\tbanner.svg" style="width: 500px;">
                                     <div class="d-flex align-items-center justify-content-between">
                                         <div class="infos">
@@ -199,30 +199,7 @@
 
                             
 
-                            <!-- <div data-aos="zoom-in">
-                                <div class="about-profile-box info-box shadow-box h-full">
-                                    <img src="assets/images/bg1.png" alt="BG" class="bg-img">
-                                    <div class="inner-profile-icons shadow-box">
-                                        <a href="#">
-                                            <i class="iconoir-dribbble"></i>
-                                        </a>
-                                        <a href="#">
-                                            <i class="iconoir-twitter"></i>
-                                        </a>
-                                    </div>
-                                    <div class="d-flex align-items-center justify-content-between">
-                                        <div class="infos">
-                                            <h4>Stay with me</h4>
-                                            <h1>Profiles</h1>
-                                        </div>
-    
-                                        <a href="contact.html" class="about-btn">
-                                            <img src="images/icon.svg" alt="Button">
-                                        </a>
-    
-                                    </div>
-                                </div>
-                            </div> -->
+                        
                             
                         </div>
                     </div>
@@ -283,11 +260,11 @@
     </main>
     
       
-    <script src="jquery-3.6.4.js"></script>
-    <script src="bootstrap.bundle.min.js"></script>
-    <script src="aos.js"></script>
-    <script src="main.js"></script>
-    <script src="main2.js"></script>
+    <script src="js/jquery-3.6.4.js"></script>
+    <script src="js/bootstrap.bundle.min.js"></script>
+    <script src="js/aos.js"></script>
+    <script src="js/main.js"></script>
+    <script src="js/main2.js"></script>
 </body>
 
 </html>

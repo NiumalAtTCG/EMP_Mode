@@ -6,19 +6,19 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Gridx - Personal Portfolio HTML Template</title>
+    <title>RudevsCo</title>
+    <link rel="icon" href="images\title.png" >
 
     <!-- Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com/">
     <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800&amp;display=swap" rel="stylesheet">
 
-    <link rel="stylesheet" href="iconoir.css">
-
-    <link rel="stylesheet" href="bootstrap.min.css">
-    <link rel="stylesheet" href="aos.css">
-
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="css/iconoir.css">
+    
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/aos.css">
+    <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
 
@@ -107,10 +107,11 @@
     </main>
     
 
-    <script src="jquery-3.6.4.js"></script>
-    <script src="bootstrap.bundle.min.js"></script>
-    <script src="aos.js"></script>
-    <script src="main.js"></script>
+    <script src="js/jquery-3.6.4.js"></script>
+    <script src="js/bootstrap.bundle.min.js"></script>
+    <script src="js/aos.js"></script>
+    <script src="js/main.js"></script>
+    <script src="js/main2.js"></script>
 </body>
 
 </html>

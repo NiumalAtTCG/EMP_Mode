@@ -6,19 +6,19 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Gridx - Personal Portfolio HTML Template</title>
+    <title>RudevsCo</title>
+    <link rel="icon" href="images\title.png" >
 
     <!-- Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com/">
     <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800&amp;display=swap" rel="stylesheet">
 
-    <link rel="stylesheet" href="iconoir.css">
-
-    <link rel="stylesheet" href="bootstrap.min.css">
-    <link rel="stylesheet" href="aos.css">
-
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="css/iconoir.css">
+    
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/aos.css">
+    <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
 
@@ -89,61 +89,6 @@
 
                             
 
-                            <!-- <div class="comments-and-form-wrap">
-                                <div class="comments-and-form-wrap-inner shadow-box">
-                                    <h2>2 Comments</h2>
-
-                                    <div class="comments">
-
-                                        <div class="comment-list">
-                                            <div class="comment-avatar">
-                                                <img src="assets/images/comment.png" alt="Avatar">
-                                            </div>
-                                            <div class="comment-body">
-                                                <span class="date">25 March 2022</span>
-                                                <h3>Jonathan Doe</h3>
-                                                <p>Sit amet luctussd fav venenatis, lectus magna fringilla inis urna, porttitor rhoncus dolor purus non enim praesent in elementum lobs eu volutpat odio facilisis mauris sit.</p>
-                                                <a href="#" class="reply-btn theme-btn">Reply</a>
-                                            </div>
-                                        </div>
-
-                                        <div class="children">
-                                            <div class="comment-list">
-                                                <div class="comment-avatar">
-                                                    <img src="assets/images/comment.png" alt="Avatar">
-                                                </div>
-                                                <div class="comment-body">
-                                                    <span class="date">25 March 2022</span>
-                                                    <h3>Jonathan Doe</h3>
-                                                    <p>Sit amet luctussd fav venenatis, lectus magna fringilla inis urna, porttitor rhoncus dolor purus no odio facilisis mauris sit.</p>
-                                                    <a href="#" class="reply-btn theme-btn">Reply</a>
-                                                </div>
-                                            </div>
-                                        </div>
-
-                                    </div>
-
-                                    <div class="comment-form">
-                                        <h2>Leave A Reply</h2>
-
-                                        <form>
-                                            <div class="input-group">
-                                                <input type="text" name="name" placeholder="Name*">
-                                            </div>
-                                            <div class="input-group">
-                                                <input type="text" name="email" placeholder="Email*">
-                                            </div>
-                                            <div class="input-group">
-                                                <textarea name="message" placeholder="Your Message*"></textarea>
-                                            </div>
-                                            <div class="input-group">
-                                                <button class="theme-btn" type="submit">Send Message</button>
-                                            </div>
-                                        </form>
-                                    </div>
-                                </div>
-                            </div> -->
-
                         </div>
                     </div>
                     <div class="col-md-4">
@@ -164,9 +109,7 @@
                                         <ul>
                                             <h4>Focus: </h4>
                                             <li><a href="blog-details.html">Solidify foundation in gaming, build community, initiate AI research.</a></li>
-                                            <!-- <li><a href="blog-details.html">Unsatiable entreaties may collecting Power.</a></li>
-                                            <li><a href="blog-details.html">Discovery incommode earnestly no he commanded</a></li>
-                                            <li><a href="blog-details.html">Unsatiable entreaties may collecting Power.</a></li> -->
+                                            
                                         </ul>
 
                                         <h4 class="mt-4">Key Objectives (Gaming):</h4>
@@ -309,10 +252,11 @@
     </main>
     
 
-    <script src="jquery-3.6.4.js"></script>
-    <script src="bootstrap.bundle.min.js"></script>
-    <script src="aos.js"></script>
-    <script src="main.js"></script>
+    <script src="js/jquery-3.6.4.js"></script>
+    <script src="js/bootstrap.bundle.min.js"></script>
+    <script src="js/aos.js"></script>
+    <script src="js/main.js"></script>
+    <script src="js/main2.js"></script>
 </body>
 
 </html>

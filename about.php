@@ -6,19 +6,19 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Gridx - Personal Portfolio HTML Template</title>
+    <title>RudevsCo</title>
+    <link rel="icon" href="images\title.png" >
 
     <!-- Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com/">
     <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800&amp;display=swap" rel="stylesheet">
 
-    <link rel="stylesheet" href="../../../cdn.jsdelivr.net/gh/iconoir-icons/iconoir%40main/css/iconoir.css">
-
-    <link rel="stylesheet" href="bootstrap.min.css">
-    <link rel="stylesheet" href="aos.css">
-
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="css/iconoir.css">
+    
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/aos.css">
+    <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
 
@@ -56,110 +56,7 @@
                     </div>
                 </div>
 
-                <!-- <div class="row mt-24">
-                    <div class="col-md-6" data-aos="zoom-in">
-                        <div class="about-edc-exp about-experience shadow-box">
-                            <img src="images/bg1.png" alt="BG" class="bg-img">
-                            <h3>EXPERIENCE</h3>
-
-                            <ul>
-                                <li>
-                                    <p class="date">2007 - 2017</p>
-                                    <h2>Framer Designer & Developer</h2>
-                                    <p class="type">Bluebase Designs</p>
-                                </li>
-                                <li>
-                                    <p class="date">2017 - 2023</p>
-                                    <h2>Front-End Developer</h2>
-                                    <p class="type">Larsen & Toubro</p>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-md-6" data-aos="zoom-in">
-                        <div class="about-edc-exp about-education shadow-box">
-                            <img src="assets/images/bg1.png" alt="BG" class="bg-img">
-                            <h3>EDUCATION</h3>
-
-                            <ul>
-                                <li>
-                                    <p class="date">2004 - 2007</p>
-                                    <h2>Bachelor Degree in Psychology</h2>
-                                    <p class="type">University of California</p>
-                                </li>
-                                <li>
-                                    <p class="date">2007 - 2009</p>
-                                    <h2>Master Degree in Designing</h2>
-                                    <p class="type">University of Texas</p>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                </div> -->
-
-                <!-- <div class="row mt-24">
-                    <div class="col-md-12">
-                        <div class="d-flex profile-contact-credentials-wrap gap-24">
-
-                            <div data-aos="zoom-in">
-                                <div class="about-profile-box info-box shadow-box h-full">
-                                    <img src="assets/images/bg1.png" alt="BG" class="bg-img">
-                                    <div class="inner-profile-icons shadow-box">
-                                        <a href="#">
-                                            <i class="iconoir-dribbble"></i>
-                                        </a>
-                                        <a href="#">
-                                            <i class="iconoir-twitter"></i>
-                                        </a>
-                                    </div>
-                                    <div class="d-flex align-items-center justify-content-between">
-                                        <div class="infos">
-                                            <h4>Stay with me</h4>
-                                            <h1>Profiles</h1>
-                                        </div>
     
-                                        <a href="contact.html" class="about-btn">
-                                            <img src="assets/images/icon.svg" alt="Button">
-                                        </a>
-    
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div data-aos="zoom-in" class="flex-1">
-                                <div class="about-contact-box info-box shadow-box">
-                                    <a class="overlay-link" href="contact.html"></a>
-                                    <img src="assets/images/bg1.png" alt="BG" class="bg-img">
-                                    <img src="assets/images/icon2.png" alt="Icon" class="star-icon">
-                                    <h1>Let's <br>work <span>together.</span></h1>
-                                    <a href="contact.html" class="about-btn">
-                                        <img src="assets/images/icon.svg" alt="Button">
-                                    </a>
-                                </div>
-                            </div>
-
-                            <div data-aos="zoom-in" class="h-full">
-                                <div class="about-crenditials-box info-box shadow-box">
-                                    <a class="overlay-link" href="credentials.html"></a>
-                                    <img src="assets/images/bg1.png" alt="BG" class="bg-img">
-                                    <img src="assets/images/sign.png" alt="Sign">
-                                    <div class="d-flex align-items-center justify-content-between">
-                                        <div class="infos">
-                                            <h4>more about me</h4>
-                                            <h1>Credentials</h1>
-                                        </div>
-    
-                                        <a href="credentials.html" class="about-btn">
-                                            <img src="assets/images/icon.svg" alt="Button">
-                                        </a>
-    
-                                    </div>
-                                </div>
-                            </div>
-
-                        </div>
-                    </div>
-                </div> -->
             </div>
         </section>
 
@@ -171,7 +68,7 @@
                         <div class="about-image-box shadow-box">
                             <img src="assets/images/bg1.png" alt="BG" class="bg-img">
                             <div class="image-inner">
-                                <img src="images/kaveesha.jpg" alt="About Me">
+                                <img src="https://cdn.discordapp.com/attachments/1212747777004797975/1212785259385462844/kaveesha.jpg?ex=65f3194a&is=65e0a44a&hm=88154668f9951296ead74d9ae869653b155d87d3a1a69118938de5e980135438&" alt="About Me">
                             </div>
                         </div>
                     </div>
@@ -196,7 +93,7 @@
                                 <div class="about-image-box shadow-box">
                                     <img src="assets/images/bg1.png" alt="BG" class="bg-img">
                                     <div class="image-inner">
-                                        <img src="images/gihan.jpg" alt="About Me">
+                                        <img src="https://cdn.discordapp.com/attachments/1212747777004797975/1212785255547928586/gihan.jpg?ex=65f31949&is=65e0a449&hm=92fc71b4faa24395d5035a297728e5130e478625be6536b277fd941c10fc4de0&" alt="About Me">
                                     </div>
                                 </div>
                             </div>
@@ -250,7 +147,7 @@
                         <div class="about-image-box shadow-box">
                             <img src="assets/images/bg1.png" alt="BG" class="bg-img">
                             <div class="image-inner">
-                                <img src="images/goyampale.jpg" alt="About Me">
+                                <img src="https://cdn.discordapp.com/attachments/1212747777004797975/1212785256034476092/goyampale.jpg?ex=65f31949&is=65e0a449&hm=bc70c6ffb99a61b6705713870cd73510332b51fbda6be1a8ce5ee69d59cda375&" alt="About Me">
                             </div>
                         </div>
                     </div>
@@ -276,7 +173,7 @@
                     <div class="about-image-box shadow-box">
                         <img src="assets/images/bg1.png" alt="BG" class="bg-img">
                         <div class="image-inner">
-                            <img src="images/savindu.jpg" alt="About Me">
+                            <img src="https://cdn.discordapp.com/attachments/1212747777004797975/1212785863440994314/savindu.jpg?ex=65f319da&is=65e0a4da&hm=638f5b9e19d6b5cdc7421b1290d65c4edb9ed12a1171be61164928f9ee5d7921&" alt="About Me">
                         </div>
                     </div>
                 </div>
@@ -302,7 +199,7 @@
                         <div class="about-image-box shadow-box">
                             <img src="assets/images/bg1.png" alt="BG" class="bg-img">
                             <div class="image-inner">
-                                <img src="images/ravindu.jpg" alt="About Me">
+                                <img src="https://cdn.discordapp.com/attachments/1212747777004797975/1212785860924280852/ravindu.jpg?ex=65f319d9&is=65e0a4d9&hm=817977a11d4d884d9d4018ee910b6e68cbb88cd4a263eff4cad1ffa2e22d366f&" alt="About Me">
                             </div>
                         </div>
                     </div>
@@ -328,7 +225,7 @@
                     <div class="about-image-box shadow-box">
                         <img src="assets/images/bg1.png" alt="BG" class="bg-img">
                         <div class="image-inner">
-                            <img src="images/WhatsApp Image 2024-02-25 at 15.35.37_ffbce77a.jpg" alt="About Me">
+                            <img src="https://cdn.discordapp.com/attachments/1212747777004797975/1212785646125588570/niumal.jpg?ex=65f319a6&is=65e0a4a6&hm=843297d619ec9a87ca1b22ba3a2dd68f69e5d25bae68059930a2b26e9b45f443&" alt="About Me">
                         </div>
                     </div>
                 </div>
@@ -336,7 +233,7 @@
                 <div class="about-details" data-aos="zoom-in">
                     <h1 class="section-heading " data-aos="fade-up"><img src="images/star-2.png" alt="Star">COO<img src="images/star-2.png" alt="Star"></h1>
                     <div class="about-details-inner shadow-box">
-                        <img src="images/icon2.png" alt="Star" style="height: 100px;">
+                        <img src="images\niumal.jpg" alt="Star" style="height: 100px;">
                         <h1>Niumal Silva</h1>
                         <p>Mr. Niumal Silva is the Chief Operating Officer (COO) of Rudevs Cooperation, a game development company based in Kurunegala, Sri Lanka. As COO, Mr. Silva is responsible for the day-to-day operations of the company, including overseeing game development, managing staff, and ensuring the company meets its financial goals.</p>
                     </div>
@@ -354,7 +251,7 @@
                         <div class="about-image-box shadow-box">
                             <img src="assets/images/bg1.png" alt="BG" class="bg-img">
                             <div class="image-inner">
-                                <img src="images/pasindu.jpg" alt="About Me">
+                                <img src="https://cdn.discordapp.com/attachments/1212747777004797975/1212785860521500804/pasindu.jpg?ex=65f319d9&is=65e0a4d9&hm=c4ba7f94ce71ae1cee4c21696ad85a42586b2811eef49e4e22053a178f2ce894&" alt="About Me">
                             </div>
                         </div>
                     </div>
@@ -380,7 +277,7 @@
                     <div class="about-image-box shadow-box">
                         <img src="assets/images/bg1.png" alt="BG" class="bg-img">
                         <div class="image-inner">
-                            <img src="images/tharusha.jpg" alt="About Me">
+                            <img src="https://cdn.discordapp.com/attachments/1212747777004797975/1212785864669667338/tharusha.jpg?ex=65f319da&is=65e0a4da&hm=0e1b6071de17e29ea0f631f478f770c3d748e342c5016860fd8b7c33685d9d63&" alt="About Me">
                         </div>
                     </div>
                 </div>
@@ -432,7 +329,7 @@
                     <div class="about-image-box shadow-box">
                         <img src="assets/images/bg1.png" alt="BG" class="bg-img">
                         <div class="image-inner">
-                            <img src="images\IMG_4100.jpg" alt="About Me">
+                            <img src="https://cdn.discordapp.com/attachments/1212747777004797975/1212785258706116669/IMG_4100.jpg?ex=65f3194a&is=65e0a44a&hm=e9d3d5a3a060a482b224ed77607388f07f938aa6fbef529188e12298c10b8cb6&" alt="About Me">
                         </div>
                     </div>
                 </div>
@@ -459,11 +356,11 @@
 
     </main>
     
-
-    <script src="jquery-3.6.4.js"></script>
-    <script src="bootstrap.bundle.min.js"></script>
-    <script src="aos.js"></script>
-    <script src="main.js"></script>
+    <script src="js/jquery-3.6.4.js"></script>
+    <script src="js/bootstrap.bundle.min.js"></script>
+    <script src="js/aos.js"></script>
+    <script src="js/main.js"></script>
+    <script src="js/main2.js"></script>
 </body>
 
 </html>
