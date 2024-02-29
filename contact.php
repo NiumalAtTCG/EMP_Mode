@@ -28,7 +28,9 @@
         <?php
     require "hedder.php";
     ?>
-
+<?php
+    require "loading.php"
+    ?>
         <!-- Contact -->
         <section class="contact-area">
             <div class="container">

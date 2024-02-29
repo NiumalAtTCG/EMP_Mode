@@ -28,6 +28,9 @@
          <?php
     require "hedder.php";
     ?> 
+    <?php
+    require "loading.php"
+    ?>
 
         <!-- About -->
         <section class="about-area">

@@ -6,7 +6,8 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Gridx - Personal Portfolio HTML Template</title>
+    <title>RudevsCo</title>
+    <link rel="icon" href="images\bg12.png" >
 
     <!-- Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com/">
@@ -120,11 +121,11 @@
                                 <div class="about-services-box info-box shadow-box ">
                                     <a href="service.php" class="overlay-link"></a>
                                     <img src="assets/images/bg1.png" alt="BG" class="bg-img">
-                                    <div class="icon-boxes d-none d-lg-block">
-                                        <i class="iconoir-camera"></i>
-                                        <i class="iconoir-design-pencil"></i>
-                                        <i class="iconoir-color-filter"></i>
-                                        <i class="iconoir-dev-mode-phone"></i>
+                                    <div class="icon-boxes ">
+                                        <i class="iconoir-camera d-none d-md-block"></i>
+                                        <i class="iconoir-design-pencil d-none d-md-block"></i>
+                                        <i class="iconoir-color-filter d-none d-md-block"></i>
+                                        <i class="iconoir-dev-mode-phone d-none d-md-block"></i>
                                         
                                     </div>
                                     <div class="d-flex align-items-center justify-content-between">

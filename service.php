@@ -27,6 +27,9 @@
     <?php
     require "hedder.php";
     ?>
+    <?php
+    require "loading.php"
+    ?>
 
         <!-- Service -->
         <section class="service-area">
