@@ -21,3 +21,21 @@ setTimeout(hideLoadingScreen, 1500); // 2 seconds in milliseconds
 
 // // Set a timeout to remove the loading screen and redirect after 2 seconds
 // setTimeout(removeLoaderAndRedirect, 2000);
+
+
+const cursorDot = document.querySelector("[data-cursor-dot]");
+const cursorOutline = document.querySelector("[data-cursor-outline]");
+
+if (cursorDot && cursorOutline) { // Check if elements exist
+  window.addEventListener("mousemove", function (e) {
+    const posX = e.clientX;
+    const posY = e.clientY;
+
+    cursorDot.animate({transform : `translate(${posX}px, ${posY}px)`,},{duration: 100,fill:"forwards"})
+    cursorOutline.animate({
+      transform: `translate(${posX}px, ${posY}px)`, // Corrected syntax
+    }, { duration: 500,fill:"forwards" }); // Corrected syntax
+  });
+} else {
+  console.warn("Cursor elements not found! Ensure correct data attributes.");
+}

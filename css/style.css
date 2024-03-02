@@ -2075,3 +2075,35 @@ body.loaded {
     opacity: 0;
   }
 }
+
+body{
+  height:100vh;
+  background-color: black;
+
+}
+.cursor-dot{
+  width: 10px;
+  height: 10px;
+  background-color: rgb(234, 22, 22);
+  text-align: center
+
+}
+.cursor-outline{
+  align-items: center;
+  width: 30px;
+  height: 30px;
+  border: 2px solid rgb(239, 239, 239);
+
+  
+}
+.cursor-dot,.cursor-outline{
+  position: fixed;
+  top: 0;
+  left: 0;
+  transform:( -50%, -50%);
+  border-radius: 50%;
+  z-index: 1;
+  pointer-events: none;
+
+}
+
